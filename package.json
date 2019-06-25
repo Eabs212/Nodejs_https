@@ -1,0 +1,17 @@
+{
+  "name": "seguridad",
+  "version": "1.0.0",
+  "description": "Proyecto de la clase de seguridad para habilitar el HTTPS y enviar un archivo encriptado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elvis Araujo y Emilio Barboza",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "https-localhost": "^4.1.1"
+  }
+}
